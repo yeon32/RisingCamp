@@ -1,5 +1,5 @@
 ## 📌 주제
-  UITableView를 이용한 프로그래밍 ➡️ 당근마켓 
+  UITableView를 이용한 프로그래밍 ➡️ TODO_List 앱
     
 ## 📌 구현 화면
 

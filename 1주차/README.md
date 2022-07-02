@@ -33,3 +33,9 @@
 
 
 ## 📌 사용된 Objects Library
+
+    1) UIButton, UILabel, UIImageView, UIView, PageControl, SearchBar
+    
+    2) StackView, ScrollView
+    
+    3) TabBarController

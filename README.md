@@ -10,8 +10,7 @@
 | 4주차 | Multi-Thread | Multi-Thread에 대한 토론 및 실습을 통해 쓰레드 프로그래밍을 학습 |
 | 5주차 | Network Intro & API | 개괄적인 서버와 클라이언트 개요, HTTP 프로토콜에 대한 이해 <br> API에 대한 이해 및 학습을 통한 서버 통신을 학습 |
 | 6주차 | Token & Restful | RESTful API 및 로그인 방식의 이해(Session-Cookie, Auth, JWT)에 대해 학습 |
-| 7주차 | Rising Test | 프론트엔드, 백엔드 실전 프로젝트(Rising Test) 진행 |
-| 8주차 | Rising Test | 프론트엔드, 백엔드 실전 프로젝트(Rising Test) 진행 |
+
 
    
 ## 📌 주차별 수행 과제
@@ -24,7 +23,6 @@
 | 4주차 | Multi-Thread | - | 22.06.28 ~ 22.07.04 | [이동] |
 | 5주차 | Network Intro & API | 🥭 망고플레이트 클론코딩  | 22.07.05 ~ 22.07.11 | [이동] |
 | 6주차 | Token & Restful | 과제x | 22.07.12 ~ 22.07.15| [이동] |
-| 7주차 | Rising Test(프론트엔드, 백엔드 협업) | |  |  |
-| 8주차 | Rising Test(프론트엔드, 백엔드 협업) | |  |  |
+
 
 
